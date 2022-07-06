@@ -6,7 +6,7 @@ Divirta-se com o famoso e clássico **Jogo da Velha**, aqui você irá se aventu
 
 ### Linguagens utilizadas
 
-* HTML5
+* HTML
 * CSS
 * JavaScript
 
