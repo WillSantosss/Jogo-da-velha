@@ -2,7 +2,7 @@
 
 ## O famoso e nostálgico Jogo da Velha, agora virtualmente.
 
-Divirta-se com o famoso e clássico **Jogo da Velha**, aqui você irá se aventurar em um incrivel jogo competitivo e desafiante, porém, agora de uma maneira mais atualizada para o mundo tecnológico.
+Divirta-se com o famoso e clássico **Jogo da Velha**, aqui você irá se aventurar em um incrível jogo competitivo e desafiante, porém, agora de uma maneira mais atualizada para o mundo tecnológico.
 
 ### Linguagens utilizadas
 
